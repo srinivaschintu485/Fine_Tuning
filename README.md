@@ -64,3 +64,22 @@ lamini/lamini_docs_finetuned: A fine-tuned version of the base model trained on 
 pythia-410m: A larger 410-million parameter version of the Pythia model used for comparison.
 
 These models are fine-tuned on custom datasets using the Hugging Face Transformers and Datasets libraries.
+ Requirements
+
+To run the notebooks, ensure you have the following dependencies installed:
+
+Python 3.8+
+
+NumPy
+
+Pandas
+
+Scikit-learn
+
+Matplotlib
+
+Seaborn
+
+Hugging Face Transformers
+
+PyTorch
