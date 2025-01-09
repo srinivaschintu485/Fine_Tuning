@@ -1,4 +1,4 @@
-# Fine_Tuning
+# Fine_Tuning LLM
 AI Model Development and Evaluation Pipeline
 
 This repository contains a comprehensive pipeline for training, evaluating, and optimizing language models using state-of-the-art machine learning techniques. The project involves the following core steps:
